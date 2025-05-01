@@ -13,7 +13,7 @@ This lab shows how to use Windows Autopilot to automatically enroll devices into
 The deployment profile tells Autopilot how the device should behave during setup (e.g., skip user steps, auto-join to Azure AD, etc.).
 
   
-![create profile](Windows-Autopilot-Intune-Lab/create profile.png)
+![create profile](create-profile.png)
 
 ---
 
@@ -23,7 +23,7 @@ The deployment profile tells Autopilot how the device should behave during setup
 You must link the profile to a user or device group so that Intune knows *which devices* should get this profile.
 
   
-![create profile]Windows-Autopilot-Intune-Lab/create profile.png)
+![create profile](create-profile.png)
 
 ---
 
