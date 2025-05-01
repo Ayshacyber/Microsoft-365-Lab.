@@ -28,26 +28,6 @@ What I did (Steps):
 5. Assigned that profile to a group.
 6. Restarted the VM and watched it auto-configure.
  ---
-   
-Errors I Faced & How I Fixed Them
-
-Intune Enrollment Issue
-**Error:** `Something went wrong. Your account wasn't created.`  
-**Fix:** Ensure the user has the correct MDM license assigned and that Android for Work is bound in Intune admin center.
-
-![Error Screenshot](Screenshots/intune-error-account.png)
-
-
-Google Workspace Binding Issue  
-**Error:** Stuck during redirection from Intune to Google  
-**Fix:** Sign in with a managed organization account, not a personal Gmail.
-
-![Screenshot](Screenshots/google-binding-error.png)
-
-
-More Screenshots
-
-All screenshots are stored in the `Screenshots/` folder and referenced in this README.
 
 Resources Used
 
@@ -56,12 +36,6 @@ Resources Used
 - [Defender for Endpoint](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/)
 
 
-Screenshots:
-- Autopilot profile in Intune
-- Device showing as enrolled
-- Policies being applied
-
-> (Screenshots will be uploaded in the folder)
 ---
 
 My Goal
