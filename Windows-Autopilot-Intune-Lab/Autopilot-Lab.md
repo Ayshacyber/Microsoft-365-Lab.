@@ -32,8 +32,6 @@ You must link the profile to a user or device group so that Intune knows *which 
  **Why?**  
 Autopilot uses the unique hardware ID to recognize and enroll the device. You need to export this as a `.csv` file from the device.
 
-  
-![Export Hardware ID](../Screenshots/export-hwid.png)
 
 ---
 
@@ -52,9 +50,6 @@ Uploading the `.csv` file registers the device in Autopilot so that it can get t
 
  **Why?**  
 To trigger Autopilot. When the device reboots, it connects to Autopilot, identifies itself by its hardware ID, and pulls the assigned profile and Intune policies.
-
-  
-![Reset Device](factory-reset.png)
 
 ---
 
