@@ -44,7 +44,7 @@ Autopilot uses the unique hardware ID to recognize and enroll the device. You ne
 Uploading the `.csv` file registers the device in Autopilot so that it can get the profile during setup.
 
   
-![Upload Hardware ID](../Screenshots/upload-hwid.png)
+![Upload Hardware ID](Upload-Hardware-ID.png)
 
 ---
 
@@ -54,7 +54,7 @@ Uploading the `.csv` file registers the device in Autopilot so that it can get t
 To trigger Autopilot. When the device reboots, it connects to Autopilot, identifies itself by its hardware ID, and pulls the assigned profile and Intune policies.
 
   
-![Reset Device](../Screenshots/factory-reset.png)
+![Reset Device](factory-reset.png)
 
 ---
 
