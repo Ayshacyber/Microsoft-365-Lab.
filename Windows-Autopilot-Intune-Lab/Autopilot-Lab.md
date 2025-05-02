@@ -58,6 +58,15 @@ To trigger Autopilot. When the device reboots, it connects to Autopilot, identif
 Windows Autopilot automates device provisioning. These steps simulate the real-world process in a lab setup, helping you learn how devices get enrolled and managed through Intune from day one.
 
 
+---
+
+**Related Lab**  
+Check out the [Import Policies Lab](../Import-Policies-Lab/Import-Policies.md) to learn how I imported policies into Intune step by step, with screenshots.
+
+---
+
+
+
 
 
 
