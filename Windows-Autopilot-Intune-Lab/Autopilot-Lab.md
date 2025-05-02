@@ -44,7 +44,7 @@ Autopilot uses the unique hardware ID to recognize and enroll the device. You ne
 Uploading the `.csv` file registers the device in Autopilot so that it can get the profile during setup.
 
   
-![Upload Hardware ID CSV](../Screenshots/upload-hwid.png)
+![Upload Hardware ID](../Screenshots/upload-hwid.png)
 
 ---
 
